@@ -1,0 +1,2 @@
+﻿MyScene.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Room::Display(void)" (?Display@Room@@UAEXXZ)
+\\Mac\Home\Downloads\g53gra_framework-demo-viewing_example\G53GRA.Framework\Debug\G53GRA.Framework.exe : fatal error LNK1120: 1 unresolved externals
